@@ -217,3 +217,4 @@ delay (3000);
 ![](https://github.com/FANDINO7/Nivel-de-agua-con-lcd/blob/main/NIVEL%20DE%20AGUA%20PIC2.png?raw=true)
 
 ![](https://github.com/FANDINO7/Nivel-de-agua-con-lcd/blob/main/NIVEL%20DE%20AGUA%20PIC2.png?raw=true)
+![](https://github.com/FANDINO7/Nivel-de-agua-con-lcd/blob/main/PIC3.png?raw=true)
