@@ -208,3 +208,6 @@ Serial.println(distance);
 delay (3000);
 }
 ```
+
+**resulatdos**
+
