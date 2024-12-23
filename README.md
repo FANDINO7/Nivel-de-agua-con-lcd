@@ -1,6 +1,16 @@
 # Nivel-de-agua-con-lcd
+**INTRODUCCION**
+**Descripcion**
+Con un sensor ULTRASONICO de medirá la distancia del nivel de agua de un tanque indicando el nivel en una pantalla lcd y con leds La Esp32 es una tarjeta de adquisición de datos, paralo cual en esta practica ocuparemos un sensor (DTH11) con una pantalla LCD216 para adquirir datos de temperatura y humedad del entorno cada segundo y mostrarlar los datos en la panatlla, se usara un simulador llamado WOKWI.
 
-
+**MATERIAL A UTILIZAR**
+WOKWI
+TARJET ESP32
+SENSOR ULTRASONICO
+LCD 16X2 2IC
+Relay Module
+INSTRUCCIONES
+Insertar el codigo dado de la practica, se realizara la misma actividad que la practica anterior mostrando datos de quien esta programando:
 ```
 // defines pins numbers
 const int trigPin = 4;
